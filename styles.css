@@ -84,3 +84,37 @@
   width: 18em;
   border-radius: 50%;
 }
+
+#contactanos{
+  background-color: #A5ADDF;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#contCol h4{
+  color: white;
+  font-family: Helvetica;
+  letter-spacing: 2px;
+}
+
+#contCol p{
+  color: white;
+  font-family: Helvetica;
+  letter-spacing: 2px;
+}
+
+#contColSocial{
+  opacity: 0.5;
+}
+
+#contColSocial:hover{
+  opacity: 1;
+}
+
+#derechos{
+  background-color: grey;
+  color: white;
+  margin:0;
+}
